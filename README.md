@@ -1,7 +1,6 @@
 # Fake News & Misinformation Detector
 
-Detect fake vs real news articles using Machine Learning, TF-IDF, and Logistic Regression, complete with training scripts, evaluation charts, and an interactive Streamlit web app.
-      
+This project detects whether a news article is fake or real using machine learning techniques like TF-IDF and Logistic Regression. It includes everything from model training and evaluation charts to an easy-to-use Streamlit web app, allowing users to test news articles interactively and see results in real time.      
 ---
 
 ## Table of Contents
