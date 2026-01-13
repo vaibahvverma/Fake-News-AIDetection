@@ -21,15 +21,15 @@ This project detects whether a news article is fake or real using machine learni
  
 ---
 
-## Overview
-
-The **Fake News & Misinformation Detector** is a complete end-to-end **Natural Language Processing (NLP)** project that classifies news headlines and articles as **REAL** or **FAKE**.  
-It combines **TF-IDF feature extraction** with a **Logistic Regression classifier**, achieving perfect accuracy on the cleaned dataset.
+The Fake News & Misinformation Detector is a complete end-to-end Natural Language Processing (NLP) project that identifies whether news headlines and articles are real or fake. It uses TF-IDF for feature extraction combined with a Logistic Regression model to deliver highly accurate predictions on a cleaned dataset.
 
 The project also includes:
-- **Model evaluation with visual charts**
-- **Interactive Streamlit web app**
-- **Reusable and modular code structure**
+
+Clear model evaluation using visual performance charts
+
+An interactive Streamlit web application for real-time testing
+
+A clean, reusable, and modular code structure for easy scalability
 
 ---
 
